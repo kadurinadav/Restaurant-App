@@ -2,9 +2,9 @@
 
 REST API for Yammie restaurant order management in Node.js and React.js.
 
-## installation required for server
+## Installation required for server
 
-**run "npm install should install all dependencies"**
+**Run "npm install" should install all dependencies**
 ```{javascript}
 
 npm install node @16.17.0
@@ -18,9 +18,9 @@ npm install supertest @6.2.4
 ```
 (As of v10.0.0, Mocha requires Node.js v14.0.0 or newer)
 
-## installation required for client
+## Installation required for client
 
-**run "npm install should install all dependencies"**
+**Run "npm install" should install all dependencies**
 
 ```{javascript}
 
@@ -55,7 +55,7 @@ npm test
 
 * `POST` : Create a new order
 
-example of json order object to send in body of request (all fields required):
+Example of json order object to send in body of request (all fields required):
 
 ```{json}
 {
@@ -72,7 +72,7 @@ example of json order object to send in body of request (all fields required):
 
 * `PUT` : Update an order with specific id
 
-example of json order object to send in body of request (all fields required):
+Example of json order object to send in body of request (all fields required):
 
 ```{json}
 {
