@@ -4,6 +4,9 @@ REST API for Yammie restaurant order management in Node.js and React.js.
 
 ## installation required for server
 ```{javascript}
+
+**run "npm install should install all dependencies"**
+
 npm install node @16.17.0
 
 npm install express @4.18.1
@@ -17,6 +20,9 @@ npm install supertest @6.2.4
 
 ## installation required for client
 ```{javascript}
+
+**run "npm install should install all dependencies"**
+
 npm install react @18.0.0
 
 npm install react-dom @18.2.0
